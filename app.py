@@ -7,7 +7,6 @@ from calculations import general_calc, calculate_hf, calculate_ltv, hf_ratio_des
 from fetch_data import get_reserves
 from visualization import hf_bar_figure, ltv_bar_figure, price_change_figure
 
-from simple_colors import *
 
 
 # Fetch default chain data at app start
@@ -637,5 +636,8 @@ def run_stress_visual(n, values, ids, portfolio_data):
     return results, hf_bar, ltv_bar, price_chart, deposits_table, borrows_table, stressed_records.to_dict(orient="records")
 # Run server
 if __name__ == "__main__":
-    app.run()
+    app.run_server(debug=True)
+
+
+
 
