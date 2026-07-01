@@ -55,13 +55,19 @@ Decision-support analytics systems
 App Snips 
 
 1# User loads data for the coins 
-<img width="334" height="229" alt="image" src="https://github.com/user-attachments/assets/d336a6e3-b126-4757-981d-321f7fb2ca46" />
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d336a6e3-b126-4757-981d-321f7fb2ca46" />
 
 2# Enter his portfolio holdings 
-<img width="340" height="177" alt="image" src="https://github.com/user-attachments/assets/11313f18-8e6a-46b0-9a41-5869920f13fe" />
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/11313f18-8e6a-46b0-9a41-5869920f13fe" />
 
 3# Apply the macro indicators and desired simulations
-<img width="332" height="267" alt="image" src="https://github.com/user-attachments/assets/9c5fde12-1a3a-413f-959f-01cb2266fc38" />
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9c5fde12-1a3a-413f-959f-01cb2266fc38" />
 
 4# Results after running 
 
